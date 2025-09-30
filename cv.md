@@ -1,16 +1,13 @@
 <p align="center">
-  <h3>Lucas Vituri Santarosa, Ph.D.</h1>
+  <h3>Lucas Vituri Santarosa, Ph.D.
   <h3>Professor & Researcher in Water Resources and Geospatial Data</h3>
-</td>
-</tr>
+
 
 <p align="center">
   <a href="https://orcid.org/0000-0001-7180-7715" target="_blank"><img src="https://img.shields.io/badge/ORCID-0000--0001--7180--7715-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="mailto:lucasviturisantarosa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://scholar.google.com/citations?user=cu3ygKsAAAAJ&hl=pt-BR" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
 </p>
-
----
 
 ## Education
 
@@ -109,8 +106,6 @@
   <li>Geostatistics</li>
 </ul>
 
-</td>
-
 ### Technical Colaboration
 <ul>
   <li>Studying the Effects of Climate Change and Variability on Water Resources in Uruguay, British Embassy Montevideo (2025-2026)</li>
@@ -118,6 +113,5 @@
   <li>Assessing the Hydrological Behaviour of Wetlands through the Use of Isotopic and Hydrogeochemical Techniques, Uruguay, IAEA project URU7007 (2023)</li>
 </ul>
 
-</td>
 </tr>
 </table>
