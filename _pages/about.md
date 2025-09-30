@@ -1,3 +1,7 @@
+---
+layout: home
+author_profile: true
+---
 
 Welcome to my academic and professional website. I am Lucas Vituri Santarosa, a Professor and Researcher at the School of Agronomy, Pontifical Catholic University of Valparaíso (PUCV).
 
