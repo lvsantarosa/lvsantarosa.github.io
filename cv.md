@@ -9,7 +9,7 @@
   <a href="https://scholar.google.com/citations?user=cu3ygKsAAAAJ&hl=pt-BR" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
 </p>
 
-## Education
+<h3>Education
 
 <ul>
     <li>
@@ -38,7 +38,7 @@
   </li>
 </ul>
 
-## Academic and Professional Experience
+<h3>Academic and Professional Experience
 
 <ul>
   <li><strong>Associate Professor</strong>, 2024 - Present<br><em>School of Agronomy, Pontifical Catholic University of Valparaíso (PUCV), Quillota, Chile.</em></li>
@@ -47,7 +47,7 @@
   <li><strong>Lecturer</strong>, 2017 - 2020<br><em>Hermínio Ometto Foundation (FHO), Araras, Brazil.</em></li>
 </ul>
 
-## Research Experience and Funded Projects
+<h3>Research Experience and Funded Projects
 
 <ul>
   <li>
@@ -62,7 +62,7 @@
   </li>
 </ul>
 
-## Technical and Data Science Skills
+<h3>Technical and Data Science Skills
 
 ### Programming Languages and Software
 <ul>
@@ -80,7 +80,7 @@
   <li><b>Hydrological and Hydrogeological Modeling:</b> Quantification of aquifer recharge, baseflow modeling, analysis of basin water resilience.</li>
 </ul>
 
-## Teaching Experience and Professional Service
+<h3>Teaching Experience and Professional Service
 
 <table width="100%">
 <tr>
